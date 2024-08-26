@@ -1,0 +1,14 @@
+metadata_version: 1
+name: Bowtie2 Generate Genome Index
+description: "This is a capsule to generate the indexes necessary for aligning with
+  Bowtie2. \n\nhttps://github.com/BenLangmead/bowtie2"
+tags:
+- Bowtie2
+- Alignment
+- Genomics
+- Bulk Sequencing
+- RNA
+- Utilities
+- DNA
+authors:
+- name: Stephen Pirpinias
